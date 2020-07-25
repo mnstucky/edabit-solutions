@@ -1,4 +1,5 @@
 // https://edabit.com/challenge/NKknKNfeaJxLDfJuZ
+"use strict";
 
 function monthName(num) {
     const months = [
