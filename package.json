@@ -1,0 +1,25 @@
+{
+  "name": "edabit-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BrokenBridge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnstucky/edabit-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnstucky/edabit-solutions/issues"
+  },
+  "homepage": "https://github.com/mnstucky/edabit-solutions#readme",
+  "devDependencies": {
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "jslint": "^0.12.1"
+  }
+}

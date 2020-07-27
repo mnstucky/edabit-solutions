@@ -4,7 +4,7 @@
 
 function getOnlyEvens(nums) {
     const result = [];
-    nums.forEach((element, index) => {
+    nums.forEach(function (element, index) {
         if (element % 2 === 0 && index % 2 === 0) {
             result.push(element);
         }
